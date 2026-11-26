@@ -79,3 +79,8 @@ http://localhost:8501
 The tuned Logistic Regression model achieved a recall of 78.34% and an F1-score of 61.75% on the test dataset.
 
 The application allows users to enter customer details and receive a churn prediction.
+
+## Author
+
+**Subhashri C**
+
